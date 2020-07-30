@@ -1,2 +1,2 @@
 # python_basics
-Brushing up some python concepts such as lists, dictionaries, class, etc
+**Implementation of Python basics along with some algorithms.**
