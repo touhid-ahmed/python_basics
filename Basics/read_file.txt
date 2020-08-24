@@ -1,1 +1,5 @@
-Hello, This line is from the file.
+Book Quotes
+
+1. Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.
+
+2. It is what you read when you don't have to that determines what you will be when you can't help it.
