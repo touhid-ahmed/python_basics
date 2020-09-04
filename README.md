@@ -1,2 +1,2 @@
 # python_basics
-**Implementation of Python basics along with some algorithms.**
+**Repository containing the basics of Python Programming language and libraries along with some useful algorithms.**
