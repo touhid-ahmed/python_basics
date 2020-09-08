@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<ipython-input-24-54af55f62975>", line 11, in <module>
+    show_val(-2)
+  File "<ipython-input-24-54af55f62975>", line 6, in show_val
+    raise Exception("You have entered a negative value")
+Exception: You have entered a negative value
